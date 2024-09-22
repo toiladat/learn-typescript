@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {
+    "outDir": "js" //Bien dich vao dir js
+  }
+}
